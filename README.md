@@ -23,3 +23,6 @@ Fruit Mart là một dự án giao diện Web Front-end hiện đại, được 
 ├── trangchu.html          # Định nghĩa cấu trúc Semantic HTML5
 ├── style.css           # Quy tắc định dạng CSS3 và hiệu ứng
 └── README.md           # Tài liệu hướng dẫn kỹ thuật
+HÌNH ẢNH TRANG CHỦ: 
+<img width="2525" height="1339" alt="image" src="https://github.com/user-attachments/assets/cdd4dab0-babc-4ae2-a156-bbaccac7229a" />
+

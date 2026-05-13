@@ -3,6 +3,9 @@ THIẾT KẾ WEBSITE CÁ NHÂN
 Xin chào, mình là Dương Trí Đạt.
 Đây là website cá nhân giới thiệu về bản thân và các nội dung liên quan đến thiết kế UI/UX cũng như lập trình.
 
+Thiết Kế:Canva
+AI:Gemini
+
 Mục tiêu
 
 Giới thiệu bản thân và các thông tin cá nhân.
